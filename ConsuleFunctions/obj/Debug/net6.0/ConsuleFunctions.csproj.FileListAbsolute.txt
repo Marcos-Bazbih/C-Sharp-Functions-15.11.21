@@ -1,0 +1,15 @@
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\bin\Debug\net6.0\ConsuleFunctions.exe
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\bin\Debug\net6.0\ConsuleFunctions.deps.json
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\bin\Debug\net6.0\ConsuleFunctions.runtimeconfig.json
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\bin\Debug\net6.0\ConsuleFunctions.dll
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\bin\Debug\net6.0\ref\ConsuleFunctions.dll
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\bin\Debug\net6.0\ConsuleFunctions.pdb
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.csproj.AssemblyReference.cache
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.AssemblyInfoInputs.cache
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.AssemblyInfo.cs
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.dll
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ref\ConsuleFunctions.dll
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.pdb
+C:\Users\MARCO\source\repos\ConsuleFunctions\ConsuleFunctions\obj\Debug\net6.0\ConsuleFunctions.genruntimeconfig.cache
