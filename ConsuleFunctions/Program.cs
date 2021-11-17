@@ -35,7 +35,11 @@ namespace ConsuleFunctions
             //print50(); //19
             //print50By3(); //20
             //GetSumAndAvg(); //21
-            GetMaxAndMin(); //22
+            //GetMaxAndMin(); //22
+            //Get5Nums(); //23
+            //PrintMod(); //24
+            //Random(); //25
+            //Rect(); //26
         }
 
 
@@ -268,21 +272,100 @@ namespace ConsuleFunctions
 
 
         //*_22_*
-        static void GetMaxAndMin()
-        {
-            Console.WriteLine("Enter 5 numbers");
-            int i = 0;
-            int maxNumber = int.MinValue;
-            int minNumber = int.MaxValue;
-            while (i < 5)
-            {
-                int userNum = int.Parse(Console.ReadLine());
-                maxNumber = Math.Max(maxNumber, userNum);
-                minNumber = Math.Min(minNumber, userNum);
-                i++;
-            }
-            Console.WriteLine($"maxNumber is: {maxNumber},minNumber is: {minNumber}");
-        }
+        //static void GetMaxAndMin()
+        //{
+        //    Console.WriteLine("Enter 5 numbers");
+        //    int i = 0;
+        //    int maxNumber = int.MinValue;
+        //    int minNumber = int.MaxValue;
+        //    while (i < 5)
+        //    {
+        //        int userNum = int.Parse(Console.ReadLine());
+        //        maxNumber = Math.Max(maxNumber, userNum);
+        //        minNumber = Math.Min(minNumber, userNum);
+        //        i++;
+        //    }
+        //    Console.WriteLine($"maxNumber is: {maxNumber},minNumber is: {minNumber}");
+        //}
 
+
+        //*_23_*
+        //static void Get5Nums()
+        //{
+        //Console.WriteLine("Enter 5 numbers");
+        //int userNum = int.Parse(Console.ReadLine());
+        //int maxNumber = int.MinValue;
+        //int minNumber = int.MaxValue;
+        //while (userNum > 0)
+        //{
+        //    maxNumber = Math.Max(maxNumber, userNum);
+        //    minNumber = Math.Min(minNumber, userNum);
+        //    userNum = int.Parse(Console.ReadLine());
+        //}
+        //Console.WriteLine(maxNumber);
+        //Console.WriteLine(minNumber);
+        //}
+
+
+        //*_24_*
+        //static void PrintMod()
+        //{
+        //int userNum = int.Parse(Console.ReadLine());
+        //int module;
+        ////int sum = 0;
+        //while (userNum > 0)
+        //{
+        //    module = userNum % 100;
+        //    Console.WriteLine(module);
+        //    userNum /= 10;
+        //}
+        //Console.WriteLine(sum);
+        //}
+
+
+        //*_25_*
+        //static void Random()
+        //{
+        //Random random = new Random();
+        //int randomNum = random.Next(1, 100);
+        //int tries = 0;
+        //bool check = false;
+        //while (!check)
+        //{
+        //    tries++;
+        //    int userNum = int.Parse(Console.ReadLine());
+
+        //    if (userNum > randomNum)
+        //    {
+        //Console.WriteLine("your number is bigger then");
+        //    }
+        //    else if (userNum < randomNum)
+        //    {
+        //        Console.WriteLine("your number is smaller");
+        //    }
+        //    else
+        //    {
+        //        check = true;
+        //        Console.WriteLine("good job");
+        //    }
+        //}
+        //Console.WriteLine(tries);
+        //}
+
+
+        //*_26_*
+        //static void Rect()
+        //{
+        //int width = int.Parse(Console.ReadLine());
+        //int height = int.Parse(Console.ReadLine());
+        //for (int i = 0; i < height; i++)
+        //{
+        //    for (int j = 0; j < width; j++)
+        //    {
+        //        Console.Write("*");
+        //    }
+        //    Console.WriteLine();
+        //}
+        //}
     }
 }
